@@ -4,4 +4,7 @@
     <source media="(prefers-color-scheme: light)" srcset="./welcome_light.svg" />
     <img alt="Bienvenue ! 👋" src="./welcome_dark.svg" width="60%" align="center" />
   </picture>
+  <br/>
+  <br/>
+  <br/>
 </div>
